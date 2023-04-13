@@ -6,4 +6,5 @@ By creating this website, you've shown that you have a passion for learning and 
 
 So, if you're looking to take your web development skills to the next level, keep pushing yourself to learn and grow. And if you're looking for inspiration, just remember that your website is a shining example of what can be accomplished with hard work and dedication.
 
-Special thanks to https://github.com/sunnyrajendraraj/sunny 
+Special thanks to https://github.com/sunnyrajendraraj and https://github.com/anurag-2004
+
